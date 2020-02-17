@@ -1,14 +1,5 @@
-#Outstainding questions/task
-#how to deterimine if contingencies learnt? Currently progresses if rating >= 16 but the could mean a 6 and 10 ratingscale
-#If FC is repeated (i.e. threshold not met) do trials need to be randomised again or does this only need to be randomised per person?). #set to randomise
-#During avoidance learning and the test phase, do we want to do expectancy ratings after each trial so we can look at cardiac effects of expetency ratings? # no too long
-#Change time of trials to 5 seconds? 
-#need 50% contigency noises play # Currently set up to randomly give a 1 or 2 where 2 is shock
-#calculate number of keys pressed post experiment? #Yes
-#if no response pressed, still need to record trial number #Done
-#Doesnt the random time umtil noise played lmit the amount of key presses- shouldn't this be consistent? #Different in FC than AL/test at the mo
-#save results on no shock trials but shock was actually played? # Done
-#how to know if shock was played given avoidance response/contingencies # same as line above # Done
+#Avoidance cardiac paradigm task script
+#James Mulcahy
 
 #All imports
 
